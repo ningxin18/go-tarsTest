@@ -1,8 +1,8 @@
-APP       := ZipkinTraceApp
-TARGET    := ZipkinTraceClient
+APP       := TestApp
+TARGET    := TestAppServer
 MFLAGS    :=
 DFLAGS    :=
-CONFIG    := client
+CONFIG    :=
 STRIP_FLAG:= N
 J2GO_FLAG:= 
 
