@@ -2,7 +2,7 @@ APP       := TestApp
 TARGET    := TestAppServer
 MFLAGS    :=
 DFLAGS    :=
-CONFIG    :=
+CONFIG    := config.conf
 STRIP_FLAG:= N
 J2GO_FLAG:= 
 
